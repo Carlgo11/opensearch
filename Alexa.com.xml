@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+	<ShortName>Alexa</ShortName>
+	<LongName>Alexa Internet Site Info</LongName>
+	<Description>Alexa site info search</Description>
+	<Url type="text/html" template="https://alexa.com/siteinfo/{searchTerms}" method="get"/>
+	<Image width="16" height="16" type="image/x-icon">https://www.alexa.com/favicon.ico</Image>
+</OpenSearchDescription>
